@@ -1,0 +1,15 @@
+header img{
+	border-radius: 250px;
+	width:500px;
+	border: 30px solid;
+}
+header{
+	background-color: #000000;
+	text-align: center;
+	padding: 0px;
+}
+.blood{
+	font-family: creepster;
+	font-size: 100px;
+	color: #990507;
+}
